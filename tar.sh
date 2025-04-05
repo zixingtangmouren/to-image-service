@@ -1,0 +1,1 @@
+tar -cvf back.tar dist package.json
